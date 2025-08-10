@@ -14,41 +14,50 @@ Initial work used SRTM elevation data to better understand distances, friction-o
 
 ## Selected Publications
 
-### Central Nervous System Infections
-- **Rattanavong et al.** (2020) *Spatial epidemiology of Japanese encephalitis virus and other infections of the central nervous system in Lao PDR (2003–2011): A retrospective analysis.* PLoS Negl Trop Dis, 14(5): e0008333. [doi:10.1371/journal.pntd.0008333](https://doi.org/10.1371/journal.pntd.0008333)  
+- **Spatial epidemiology of Japanese encephalitis virus and other infections of the central nervous system in Lao PDR (2003–2011): A retrospective analysis.**  
+  Rattanavong S, Souriya M, Phommasone K, Lee SJ, Newton PN, Parker DM, et al. *PLOS Neglected Tropical Diseases*. 2020;14(5): e0008333.  
+  [https://doi.org/10.1371/journal.pntd.0008333](https://doi.org/10.1371/journal.pntd.0008333)
 
-### Scrub and Murine Typhus
-- **Roberts et al.** (2021) *A spatio-temporal analysis of scrub typhus and murine typhus in Laos; implications from changing landscapes and climate.* PLoS Negl Trop Dis, 15(8): e0009685. [doi:10.1371/journal.pntd.0009685](https://doi.org/10.1371/journal.pntd.0009685)  
+- **A spatio-temporal analysis of scrub typhus and murine typhus in Laos; implications from changing landscapes and climate.**  
+  Roberts T, Parker DM, Newton PN, et al. *PLOS Neglected Tropical Diseases*. 2021;15(8): e0009685.  
+  [https://doi.org/10.1371/journal.pntd.0009685](https://doi.org/10.1371/journal.pntd.0009685)
 
-### Pathogen Discovery in Cambodia
-- **Bohl et al.** (2022) *Discovering disease-causing pathogens in resource-scarce Southeast Asia using a global metagenomic pathogen monitoring system.* PNAS, 119(11): e2115285119. [doi:10.1073/pnas.2115285119](https://doi.org/10.1073/pnas.2115285119)  
+- **Discovering disease-causing pathogens in resource-scarce Southeast Asia using a global metagenomic pathogen monitoring system.**  
+  Bohl JA, Parker DM, et al. *Proceedings of the National Academy of Sciences*. 2022;119(11): e2115285119.  
+  [https://doi.org/10.1073/pnas.2115285119](https://doi.org/10.1073/pnas.2115285119)
 
-### Burkholderia pseudomallei in Myanmar
-- **Swe et al.** (2021) *Geographical distribution of Burkholderia pseudomallei in soil in Myanmar.* PLoS Negl Trop Dis, 15(5): e0009372. [doi:10.1371/journal.pntd.0009372](https://doi.org/10.1371/journal.pntd.0009372)  
+- **Geographical distribution of *Burkholderia pseudomallei* in soil in Myanmar.**  
+  Swe MMM, Han WW, Lin KS, Hlaing T, Win MM, Phyo AP, Win SY, Parker DM, et al. *PLOS Neglected Tropical Diseases*. 2021;15(5): e0009372.  
+  [https://doi.org/10.1371/journal.pntd.0009372](https://doi.org/10.1371/journal.pntd.0009372)
 
-### Aedes aegypti Exposure in Cambodia
-- **Parker et al.** (2023) *Determinants of exposure to Aedes mosquitoes: A comprehensive geospatial analysis in peri-urban Cambodia.* Acta Tropica, 239: 106829. [doi:10.1016/j.actatropica.2023.106829](https://doi.org/10.1016/j.actatropica.2023.106829)  
+- **Determinants of exposure to *Aedes* mosquitoes: A comprehensive geospatial analysis in peri-urban Cambodia.**  
+  Parker DM, et al. *Acta Tropica*. 2023;239: 106829.  
+  [https://doi.org/10.1016/j.actatropica.2023.106829](https://doi.org/10.1016/j.actatropica.2023.106829)
 
-### Malaria in Myanmar
-- **Zhao et al.** (2023) *Spatio-temporal trends of malaria incidence from 2011 to 2017 and environmental predictors of malaria transmission in Myanmar.* Infect Dis Poverty, 12: 2. [doi:10.1186/s40249-023-01055-6](https://doi.org/10.1186/s40249-023-01055-6)  
+- **Spatio-temporal trends of malaria incidence from 2011 to 2017 and environmental predictors of malaria transmission in Myanmar.**  
+  Zhao Y, Cui L, Parker DM, et al. *Infectious Diseases of Poverty*. 2023;12: 2.  
+  [https://doi.org/10.1186/s40249-023-01055-6](https://doi.org/10.1186/s40249-023-01055-6)
 
-### Cholera and Conflict in Yemen
-- **Tarnas et al.** (2023) *Association between air raids and reported incidence of cholera in Yemen, 2016–19: an ecological modelling study.* The Lancet Global Health, 11(12): e1955–e1963. [doi:10.1016/S2214-109X(23)00272-3](https://doi.org/10.1016/S2214-109X(23)00272-3)  
+- **Association between air raids and reported incidence of cholera in Yemen, 2016–19: an ecological modelling study.**  
+  Tarnas M, Parker DM, et al. *The Lancet Global Health*. 2023;11(12): e1955–e1963.  
+  [https://doi.org/10.1016/S2214-109X(23)00272-3](https://doi.org/10.1016/S2214-109X(23)00272-3)
 
-### Global Leishmaniasis
-- **Tarnas et al.** (2024) *Ecological study measuring the association between conflict, environmental factors, and annual global cutaneous and mucocutaneous leishmaniasis incidence (2005–2022).* PLoS Negl Trop Dis, 18(9): e0012549. [doi:10.1371/journal.pntd.0012549](https://doi.org/10.1371/journal.pntd.0012549)  
+- **Ecological study measuring the association between conflict, environmental factors, and annual global cutaneous and mucocutaneous leishmaniasis incidence (2005–2022).**  
+  Tarnas M, Parker DM, et al. *PLOS Neglected Tropical Diseases*. 2024;18(9): e0012549.  
+  [https://doi.org/10.1371/journal.pntd.0012549](https://doi.org/10.1371/journal.pntd.0012549)
 
-### Extractive Settlements and Disease
-- **Glendening et al.** (2025) *A conceptual framework for understanding extractive settlements and disease: demography, environment, and epidemiology.* In: *Planetary health approaches to understand and control vector-borne diseases*. [doi:10.3920/9789004688650_007](https://doi.org/10.3920/9789004688650_007)  
+- **A conceptual framework for understanding extractive settlements and disease: demography, environment, and epidemiology.**  
+  Glendening E, Parker DM, et al. In: *Planetary health approaches to understand and control vector-borne diseases*. 2025.  
+  [https://doi.org/10.3920/9789004688650_007](https://doi.org/10.3920/9789004688650_007)
 
 ---
 
 ## Related Repositories
 
-- [tm-border-mch](https://github.com/DMParker1/tm-border-mch) — Maternal and child health research on the Thailand–Myanmar border.
-- [early-dx-tx](https://github.com/DMParker1/early-dx-tx) — Early access to malaria diagnosis and treatment.
-- [tMDA-program](https://github.com/DMParker1/tmda-program) — Targeted mass drug administration trials and modeling in Southeast Asia.
-- [METF-mapping](https://github.com/DMParker1/METF-mapping) — Mapping outputs and spatial analyses from METF.
+- [tm-border-mch](https://github.com/DMParker1/tm-border-mch) — Maternal and child health research on the Thailand–Myanmar border.  
+- [early-dx-tx](https://github.com/DMParker1/early-dx-tx) — Early access to malaria diagnosis and treatment.  
+- [tMDA-program](https://github.com/DMParker1/tmda-program) — Targeted mass drug administration trials and modeling in Southeast Asia.  
+- [METF-mapping](https://github.com/DMParker1/METF-mapping) — Mapping outputs and spatial analyses from METF.  
 - [SDEtool](https://github.com/parker-group/SDEtool) — R package for generating Standard Deviational Ellipses.
 
 ---
@@ -64,4 +73,3 @@ Initial work used SRTM elevation data to better understand distances, friction-o
 ---
 
 *Maintained by Daniel M. Parker*
-
