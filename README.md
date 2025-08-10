@@ -15,41 +15,40 @@ Initial work used SRTM elevation data to better understand distances, friction-o
 ## Selected Publications
 
 - **Spatial epidemiology of Japanese encephalitis virus and other infections of the central nervous system in Lao PDR (2003–2011): A retrospective analysis.**  
-  Rattanavong S, Souriya M, Phommasone K, Lee SJ, Newton PN, Parker DM, et al. *PLOS Neglected Tropical Diseases*. 2020;14(5): e0008333.  
-  [https://doi.org/10.1371/journal.pntd.0008333](https://doi.org/10.1371/journal.pntd.0008333)
+  Rattanavong S, Dubot-Pérès A, Mayxay M, Vongsouvath M, Lee SJ, Cappelle J, et al. *PLOS Neglected Tropical Diseases*. 2020;14(5):e0008333.  
+  https://doi.org/10.1371/journal.pntd.0008333
 
 - **A spatio-temporal analysis of scrub typhus and murine typhus in Laos; implications from changing landscapes and climate.**  
-  Roberts T, Parker DM, Newton PN, et al. *PLOS Neglected Tropical Diseases*. 2021;15(8): e0009685.  
-  [https://doi.org/10.1371/journal.pntd.0009685](https://doi.org/10.1371/journal.pntd.0009685)
+  Roberts T, Parker DM, Bulterys PL, Rattanavong S, Elliott I, Phommasone K, et al. *PLOS Neglected Tropical Diseases*. 2021;15(8):e0009685.  
+  https://doi.org/10.1371/journal.pntd.0009685
 
 - **Discovering disease-causing pathogens in resource-scarce Southeast Asia using a global metagenomic pathogen monitoring system.**  
-  Bohl JA, Parker DM, et al. *Proceedings of the National Academy of Sciences*. 2022;119(11): e2115285119.  
-  [https://doi.org/10.1073/pnas.2115285119](https://doi.org/10.1073/pnas.2115285119)
+  Bohl JA, Lay S, Chea S, Ahyong V, Parker DM, Gallagher S, et al. *Proceedings of the National Academy of Sciences*. 2022;119(11):e2115285119.  
+  https://doi.org/10.1073/pnas.2115285119
 
 - **Geographical distribution of *Burkholderia pseudomallei* in soil in Myanmar.**  
-  Swe MMM, Han WW, Lin KS, Hlaing T, Win MM, Phyo AP, Win SY, Parker DM, et al. *PLOS Neglected Tropical Diseases*. 2021;15(5): e0009372.  
-  [https://doi.org/10.1371/journal.pntd.0009372](https://doi.org/10.1371/journal.pntd.0009372)
+  Swe MMM, Win MM, Cohen J, Phyo AP, Lin HN, Soe K, et al. *PLOS Neglected Tropical Diseases*. 2021;15(5):e0009372.  
+  https://doi.org/10.1371/journal.pntd.0009372
 
 - **Determinants of exposure to *Aedes* mosquitoes: A comprehensive geospatial analysis in peri-urban Cambodia.**  
-  Parker DM, et al. *Acta Tropica*. 2023;239: 106829.  
-  [https://doi.org/10.1016/j.actatropica.2023.106829](https://doi.org/10.1016/j.actatropica.2023.106829)
+  Parker DM, Medina C, Bohl JA, Lon C, Chea S, Lay S, et al. *Acta Tropica*. 2023;239:106829.  
+  https://doi.org/10.1016/j.actatropica.2023.106829
 
 - **Spatio-temporal trends of malaria incidence from 2011 to 2017 and environmental predictors of malaria transmission in Myanmar.**  
-  Zhao Y, Cui L, Parker DM, et al. *Infectious Diseases of Poverty*. 2023;12: 2.  
-  [https://doi.org/10.1186/s40249-023-01055-6](https://doi.org/10.1186/s40249-023-01055-6)
+  Zhao Y, Aung PL, Ruan S, Win KM, Wu Z, Soe TN, et al. *Infectious Diseases of Poverty*. 2023;12:2.  
+  https://doi.org/10.1186/s40249-023-01055-6
 
-- **Association between air raids and reported incidence of cholera in Yemen, 2016–19: an ecological modelling study.**  
-  Tarnas M, Parker DM, et al. *The Lancet Global Health*. 2023;11(12): e1955–e1963.  
-  [https://doi.org/10.1016/S2214-109X(23)00272-3](https://doi.org/10.1016/S2214-109X(23)00272-3)
+- **Association between air raids and reported incidence of cholera in Yemen, 2016–19: An ecological modelling study.**  
+  Tarnas MC, Al-Dheeb N, Zaman MH, Parker DM. *The Lancet Global Health*. 2023;11(12):e1955–e1963.  
+  https://doi.org/10.1016/S2214-109X(23)00272-3
 
 - **Ecological study measuring the association between conflict, environmental factors, and annual global cutaneous and mucocutaneous leishmaniasis incidence (2005–2022).**  
-  Tarnas M, Parker DM, et al. *PLOS Neglected Tropical Diseases*. 2024;18(9): e0012549.  
-  [https://doi.org/10.1371/journal.pntd.0012549](https://doi.org/10.1371/journal.pntd.0012549)
+  Tarnas MC, Abbara A, Desai AN, Parker DM. *PLOS Neglected Tropical Diseases*. 2024;18(9):e0012549.  
+  https://doi.org/10.1371/journal.pntd.0012549
 
-- **A conceptual framework for understanding extractive settlements and disease: demography, environment, and epidemiology.**  
-  Glendening E, Parker DM, et al. In: *Planetary health approaches to understand and control vector-borne diseases*. 2025.  
-  [https://doi.org/10.3920/9789004688650_007](https://doi.org/10.3920/9789004688650_007)
-
+- **A conceptual framework for understanding extractive settlements and disease: Demography, environment, and epidemiology.**  
+  Glendening N, Haileselassie W, Parker DM. In: *Planetary health approaches to understand and control vector-borne diseases*. 2025.  
+  https://doi.org/10.3920/9789004688650_007
 ---
 
 ## Related Repositories
