@@ -33,6 +33,10 @@ Initial work used SRTM elevation data to better understand distances, friction-o
   Swe MMM, Win MM, Cohen J, Phyo AP, Lin HN, Soe K, et al. *PLOS Neglected Tropical Diseases*. 2021;15(5):e0009372.  
   https://doi.org/10.1371/journal.pntd.0009372
 
+- **Mobile phone handover data for measuring and analysing human population mobility in Western Ethiopia: implication for malaria disease epidemiology and elimination efforts.** 
+  Haileselassie W, Getnet A, Solomon H, Deressa W, Yan G, Parker DM. *Malaria Journal*. 2022;21:323.  
+  https://doi.org/10.1186/s12936-022-04337-w
+
 - **Determinants of exposure to *Aedes* mosquitoes: A comprehensive geospatial analysis in peri-urban Cambodia.**  
   Parker DM, Medina C, Bohl JA, Lon C, Chea S, Lay S, et al. *Acta Tropica*. 2023;239:106829.  
   https://doi.org/10.1016/j.actatropica.2023.106829
@@ -50,7 +54,7 @@ Initial work used SRTM elevation data to better understand distances, friction-o
   https://doi.org/10.1371/journal.pntd.0012549
 
 - **A conceptual framework for understanding extractive settlements and disease: Demography, environment, and epidemiology.**  
-  Glendening N, Haileselassie W, Parker DM. In: *Planetary health approaches to understand and control vector-borne diseases*. 2025.  
+  Glendening N, Haileselassie W, Parker DM. In: *Planetary health approaches to understand and control vector-borne diseases*. 2024.  
   https://doi.org/10.3920/9789004688650_007
 
 
