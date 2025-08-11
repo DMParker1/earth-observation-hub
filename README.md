@@ -2,7 +2,7 @@
 
 This repository brings together my work applying Earth observation and remote sensing methods to public health research. It acts as a storytelling hub—showing the evolution of my research program from early spatial analyses to large-scale, multi-disease, and multi-country projects.
 
-> **Definition:** *Earth Observation (EO)* refers to observational data about processes and conditions at or near Earth’s surface. It includes (a) **environmental sensing** (in-situ gauges and stations; **remote sensing** from satellites, aircraft, and drones) and (b) **human-systems sensing** (privacy-preserving mobility/behavior data such as GPS logger traces, mobile-network CDR/handovers, and app telemetry). In this repository, **Remote Sensing** is treated as a **subset** of EO.
+> **Definition:** *Earth Observation (EO)* refers to observational data describing processes and conditions at or near Earth’s surface. EO spans (a) **environmental sensing** — in-situ gauges and stations (i.e. weather stations), plus **remote sensing** from satellites, aircraft, and drones — and (b) **human-systems sensing** — data on population location or movement such as GPS logger records, mobile-network CDR/handover data, and various forms of telemetry. I treat **Remote Sensing** as a **subset** of EO.
 
 
 ---
