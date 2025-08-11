@@ -62,6 +62,21 @@ Initial work used SRTM elevation data to better understand distances, friction-o
 - [SDEtool](https://github.com/parker-group/SDEtool) — In-house standard deviational ellipse generation tool for spatial epidemiology and movement analysis; available for related work but not used in these specific projects.
 ---
 
+<hr />
+
+<h2>Featured case studies</h2>
+
+<details>
+  <summary><strong>Kinshasa EO</strong> — Urban Earth Observation workflows (Sentinel-2 / GEE)</summary>
+
+  <p><strong>Overview:</strong> <a href="https://github.com/parker-group/Kinshasa_EO/blob/main/OVERVIEW_KinshasaEO.md">OVERVIEW_KinshasaEO.md</a><br/>
+  <strong>Repository:</strong> <a href="https://github.com/parker-group/Kinshasa_EO">parker-group/Kinshasa_EO</a></p>
+
+  <p><em>What’s inside:</em> preprocessing pipeline, change detection notebooks, and map outputs.</p>
+</details>
+
+---
+
 ## Data Sources Commonly Used
 
 - [MODIS](https://modis.gsfc.nasa.gov/data/) (NDVI, EVI, surface water indices)  
