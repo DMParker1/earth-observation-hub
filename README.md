@@ -57,7 +57,7 @@ Initial work used SRTM elevation data to better understand distances, friction-o
 - [early-dx-tx](https://github.com/DMParker1/early-dx-tx) — Early access to malaria diagnosis and treatment.  
 - [tMDA-program](https://github.com/DMParker1/tmda-program) — Targeted mass drug administration trials and modeling in Southeast Asia.  
 - [METF-mapping](https://github.com/DMParker1/METF-mapping) — Mapping outputs and spatial analyses from METF.  
-- [SDEtool](https://github.com/parker-group/SDEtool) — R package for generating Standard Deviational Ellipses.
+- [SDEtool](https://github.com/parker-group/SDEtool) — In house R tool for generating Standard Deviational Ellipses.
 
 ---
 
