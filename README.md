@@ -71,8 +71,6 @@ Initial work used SRTM elevation data to better understand distances, friction-o
   <p><em>What’s inside:</em> preprocessing pipeline, change detection notebooks, and map outputs.</p>
 </details>
 
-- **Human mobility from mobile phone networks (Western Ethiopia)** — Used anonymized cell-network handover data to estimate population movements and implications for malaria epidemiology and elimination planning. [*Malaria Journal* (2022)](https://malariajournal.biomedcentral.com/articles/10.1186/s12936-022-04337-w)
-
 ---
 
 ## Data Sources Commonly Used
