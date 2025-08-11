@@ -2,6 +2,8 @@
 
 This repository brings together my work applying Earth observation and remote sensing methods to public health research. It acts as a storytelling hub—showing the evolution of my research program from early spatial analyses to large-scale, multi-disease, and multi-country projects.
 
+> **Definition (as used here):** *Earth Observation (EO)* means any observational data about Earth systems—both **environmental sensing** (e.g., satellites, radar, reanalysis) and **human systems sensing** (e.g., anonymized telecom mobility)—used to understand health, environment, and population processes. *Remote sensing* is one subtype of EO.
+
 ---
 
 ## Background
@@ -63,6 +65,8 @@ Initial work used SRTM elevation data to better understand distances, friction-o
 
   <p><em>What’s inside:</em> preprocessing pipeline, change detection notebooks, and map outputs.</p>
 </details>
+
+- **Human mobility from mobile phone networks (Western Ethiopia)** — Used anonymized cell-network handover data to estimate population movements and implications for malaria epidemiology and elimination planning. [*Malaria Journal* (2022)](https://malariajournal.biomedcentral.com/articles/10.1186/s12936-022-04337-w)
 
 ---
 
