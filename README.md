@@ -53,12 +53,12 @@ Initial work used SRTM elevation data to better understand distances, friction-o
 
 ## Related Repositories
 
-- [tm-border-mch](https://github.com/DMParker1/tm-border-mch) — Maternal and child health research on the Thailand–Myanmar border.  
-- [early-dx-tx](https://github.com/DMParker1/early-dx-tx) — Early access to malaria diagnosis and treatment.  
+- [METF-mapping](https://github.com/DMParker1/METF-mapping) — Mapping and community engagement groundwork for malaria post placement and METF operations.  
 - [tMDA-program](https://github.com/DMParker1/tmda-program) — Targeted mass drug administration trials and modeling in Southeast Asia.  
-- [METF-mapping](https://github.com/DMParker1/METF-mapping) — Mapping outputs and spatial analyses from METF.  
-- [SDEtool](https://github.com/parker-group/SDEtool) — In house R tool for generating Standard Deviational Ellipses.
-
+- [early-dx-tx](https://github.com/DMParker1/early-dx-tx) — Early access to malaria diagnosis and treatment.  
+- [tm-border-mch](https://github.com/DMParker1/tm-border-mch) — Maternal and child health research on the Thailand–Myanmar border.  
+- [earth-observation-hub](https://github.com/DMParker1/earth-observation-hub) — Remote sensing and Earth observation methods applied to public health.
+- [SDEtool](https://github.com/parker-group/SDEtool) — In-house standard deviational ellipse generation tool used in spatial epidemiology and movement analysis.
 ---
 
 ## Data Sources Commonly Used
