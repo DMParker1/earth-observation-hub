@@ -12,6 +12,26 @@ Initial work used SRTM elevation data to better understand distances, friction-o
 
 ---
 
+## Constellation: Project Map
+
+```mermaid
+graph TD
+  EO[Earth Observation Hub]
+  METF[METF-mapping]
+  tMDA[tMDA-program]
+  EDT[early-dx-tx]
+  MCH[tm-border-mch]
+
+  EO --> METF
+  EO --> tMDA
+  EO --> EDT
+  EO --> MCH
+
+  METF --- tMDA
+  EDT --- tMDA
+  METF --- MCH
+---
+
 ## Selected Publications
 
 - **Spatial epidemiology of Japanese encephalitis virus and other infections of the central nervous system in Lao PDR (2003–2011): A retrospective analysis.**  
