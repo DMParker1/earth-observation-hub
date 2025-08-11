@@ -49,9 +49,7 @@ Initial work used SRTM elevation data to better understand distances, friction-o
 - **A conceptual framework for understanding extractive settlements and disease: Demography, environment, and epidemiology.**  
   Glendening N, Haileselassie W, Parker DM. In: *Planetary health approaches to understand and control vector-borne diseases*. 2025.  
   https://doi.org/10.3920/9789004688650_007
----
 
----
 
 <hr />
 
