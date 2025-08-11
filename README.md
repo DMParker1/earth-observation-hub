@@ -30,7 +30,9 @@ graph TD
   METF --- tMDA
   EDT --- tMDA
   METF --- MCH
----
+```
+
+*Interpretation:* **Earth Observation Hub** provides cross-cutting EO/RS methods and data engineering that feed into the thematic projects. The thematic repos interlink where field operations, interventions, and analyses overlap.
 
 ## Selected Publications
 
