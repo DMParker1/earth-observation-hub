@@ -9,7 +9,7 @@ This repository brings together my work applying Earth observation data and meth
 
 ## Background
 
-The Mahidol–Oxford Tropical Medicine Research Unit (MORU) network, and especially the Shoklo Malaria Research Unit (SMRU) and Lao–Oxford–Mahosot Hospital–Wellcome Trust Research Unit ([LOMWRU](https://www.tropicalmedicine.ox.ac.uk/research/lao-lomwru-moru-network)), provided early opportunities to integrate Earth observation data into public health.  
+The Mahidol–Oxford Tropical Medicine Research Unit (MORU) network, and especially the Shoklo Malaria Research Unit (SMRU) and Lao–Oxford–Mahosot Hospital–Wellcome Trust Research Unit ([LOMWRU](https://www.tropicalmedicine.ox.ac.uk/research/lao-lomwru-moru-network)), provided me opportunities to integrate Earth observation data into public health.  
 
 Initial work used SRTM elevation data to better understand distances, friction-of-distance, and travel times in malaria research (especially with regard to [METF](https://github.com/DMParker1/METF-mapping)). While at SMRU, I was invited by [Paul Newton](https://www.ndm.ox.ac.uk/team/paul-newton) to give a GIS workshop ([QGIS](https://qgis.org/)) at LOMWRU. This led to collaborations on the spatial epidemiology of infections of the central nervous system in Laos — work that inspired me to explore neglected tropical diseases and environmental predictors of a broad range of health outcomes.
 
