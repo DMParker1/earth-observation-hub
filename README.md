@@ -93,6 +93,7 @@ Initial work used SRTM elevation data to better understand distances, friction-o
 - [tm-border-mch](https://github.com/DMParker1/tm-border-mch) — Maternal and child health research on the Thailand–Myanmar border.  
 - [earth-observation-hub](https://github.com/DMParker1/earth-observation-hub) — Remote sensing and Earth observation methods applied to public health.  
 - [SDEtool](https://github.com/parker-group/SDEtool) — In-house standard deviational ellipse generation tool for spatial epidemiology and movement analysis; available for related work but not used in these specific projects.
+- [activity-spaces](https://github.com/DMParker1/activity-spaces) — Methods + narrative on multi-place exposure (farm huts, GPS, mobile phone data) for infectious disease transmission.
 
 
 ---
