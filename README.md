@@ -4,8 +4,16 @@ This repository brings together my work applying Earth observation data and meth
 
 > **Definition:** *Earth Observation (EO)* refers to observational data about processes and conditions at or near Earth’s surface. EO spans (a) **environmental sensing** — in-situ gauges and stations (i.e. weather stations), plus **remote sensing** from satellites, aircraft, and drones — and (b) **human-systems sensing** — data on population location or movement such as GPS logger records, mobile-network CDR/handover data, and various forms of telemetry. I treat **Remote Sensing** as a **subset** of EO.
 
-
 ---
+
+## Practical How-To Guides
+
+If you are looking for **step-by-step methods** (e.g., downloading weather station data, pulling ERA5 climate series, or running zonal statistics in QGIS), these are maintained separately here:
+
+👉 [parker-group/earth-observation-howto](https://github.com/parker-group/earth-observation-howto)
+
+This keeps the **hub** focused on research background and case studies, while the **how-to repo** provides reusable workflows.
+
 
 ## Background
 
@@ -65,7 +73,7 @@ Initial work used SRTM elevation data to better understand distances, friction-o
 <details>
   <summary><strong>Kinshasa EO</strong> — Urban Earth Observation workflows (Sentinel-2 / GEE)</summary>
 
-  <p><strong>Overview:</strong> <a href="https://github.com/parker-group/Kinshasa_EO/blob/main/OVERVIEW_KinshasaEO.md">OVERVIEW_KinshasaEO.md</a><br/>
+  <p><strong>Overview:</strong> <a href="[OVERVIEW_KinshasaEO.md](https://github.com/parker-group/Kinshasa_EO/blob/main/docs/OVERVIEW_KinshasaEO.md)">OVERVIEW_KinshasaEO.md</a><br/>
   <strong>Repository:</strong> <a href="https://github.com/parker-group/Kinshasa_EO">parker-group/Kinshasa_EO</a></p>
 
   <p><em>What’s inside:</em> preprocessing pipeline, change detection notebooks, and map outputs.</p>
