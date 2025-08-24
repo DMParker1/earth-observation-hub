@@ -101,6 +101,7 @@ Initial work used SRTM elevation data to better understand distances, friction-o
 - [earth-observation-hub](https://github.com/DMParker1/earth-observation-hub) — Remote sensing and Earth observation methods applied to public health.  
 - [SDEtool](https://github.com/parker-group/SDEtool) — In-house standard deviational ellipse generation tool for spatial epidemiology and movement analysis; available for related work but not used in these specific projects.
 - [activity-spaces](https://github.com/DMParker1/activity-spaces) — Methods + narrative on multi-place exposure (farm huts, GPS, mobile phone data) for infectious disease transmission.
+- [earth-observation-howto](https://github.com/parker-group/earth-observation-howto) — Practical step-by-step guides for EO data workflows (weather, ERA5, zonal statistics).
 
 
 ---
