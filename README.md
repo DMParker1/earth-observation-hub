@@ -12,8 +12,6 @@ If you are looking for **step-by-step methods** (e.g., downloading weather stati
 
 👉 [parker-group/earth-observation-howto](https://github.com/parker-group/earth-observation-howto)
 
-This keeps the **hub** focused on research background and case studies, while the **how-to repo** provides reusable workflows.
-
 
 ## Background
 
