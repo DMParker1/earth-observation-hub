@@ -83,7 +83,7 @@ Initial work used SRTM elevation data to better understand distances, friction-o
 ## Data Sources Commonly Used
 
 - [MODIS](https://modis.gsfc.nasa.gov/data/) (NDVI, EVI, surface water indices)  
-- [SRTM](https://www2.jpl.nasa.gov/srtm/) elevation data  
+- [SRTM](https://www.earthdata.nasa.gov/data/instruments/srtm) elevation data  
 - [ERA5](https://www.ecmwf.int/en/forecasts/datasets/reanalysis-datasets/era5) climate reanalysis  
 - [Landsat](https://landsat.gsfc.nasa.gov/) and [Sentinel](https://sentinels.copernicus.eu/) satellite imagery  
 - [GEE](https://earthengine.google.com/) for scalable environmental data extraction  
