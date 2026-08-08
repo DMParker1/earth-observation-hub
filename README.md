@@ -24,12 +24,13 @@ This repository traces how those approaches entered my research, what questions 
 
 ## Practical How-To Guides
 
-If you are looking for **step-by-step methods** (e.g., downloading weather station data, pulling ERA5 climate series, or running zonal statistics in QGIS), these are maintained separately here:
+If you are looking for step-by-step methods rather than the research narrative, see:
 
-👉 [parker-group/earth-observation-howto](https://github.com/parker-group/earth-observation-howto)
+- [Earth Observation How-To](https://github.com/parker-group/earth-observation-howto) — practical guides for accessing, processing, and analyzing common Earth observation datasets.
 
+---
 
-## Background
+## How Earth observation entered my research
 
 The Mahidol–Oxford Tropical Medicine Research Unit ([MORU](https://www.tropmedres.ac/)) network, and especially the Shoklo Malaria Research Unit (SMRU) and Lao–Oxford–Mahosot Hospital–Wellcome Trust Research Unit ([LOMWRU](https://www.tropicalmedicine.ox.ac.uk/research/lao-lomwru-moru-network)), provided me opportunities to integrate Earth observation data into public health.  
 
