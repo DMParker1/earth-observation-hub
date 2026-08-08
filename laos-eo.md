@@ -84,7 +84,7 @@ This work helped shape how I think about Earth observation more generally.
 
 Satellite products make it possible to measure environmental conditions consistently over enormous areas and long periods of time. That is their great strength. But the apparent precision of a raster should not obscure what the measurement actually represents.
 
-A pixel has a spatial scale. An index has a physical and mathematical meaning. Landscapes are heterogeneous. And the environmental conditions relevant to a mosquito, pathogen, or person may occur at scales much finer than the observation system being used.
+A pixel has a spatial scale. An index has a physical and mathematical meaning. Landscapes are heterogeneous; and the environmental conditions relevant to a mosquito, pathogen, or person may occur at scales much finer than the observation system being used.
 
 For me, ground truthing is therefore not separate from Earth observation. It is part of understanding the observation itself.
 
