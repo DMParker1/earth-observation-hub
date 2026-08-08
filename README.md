@@ -65,6 +65,15 @@ The next step was to move from asking where disease occurs to asking what enviro
 - **Determinants of exposure to *Aedes* mosquitoes: A comprehensive geospatial analysis in peri-urban Cambodia.**  
   Parker DM, Medina C, Bohl JA, Lon C, Chea S, Lay S, et al. *Acta Tropica*. 2023;239:106829.  
   https://doi.org/10.1016/j.actatropica.2023.106829
+<p align="center">
+  <img src="./media/AedesExposurePredictions.jpg"
+       alt="Predicted spatial patterns of Aedes mosquito exposure across four study visits in peri-urban Cambodia"
+       width="850">
+</p>
+
+<sub>
+<b>Figure.</b> Predicted spatial variation in exposure to <i>Aedes</i> mosquitoes across four study visits in peri-urban Cambodia. The rows show the lower 95% credible bound, mean prediction, and upper 95% credible bound. From Parker et al. (2023), <i>Acta Tropica</i>.
+</sub>
 
 - **Spatio-temporal trends of malaria incidence from 2011 to 2017 and environmental predictors of malaria transmission in Myanmar.**  
   Zhao Y, Aung PL, Ruan S, Win KM, Wu Z, Soe TN, et al. *Infectious Diseases of Poverty*. 2023;12:2.  
@@ -73,7 +82,15 @@ The next step was to move from asking where disease occurs to asking what enviro
 - **Discovering disease-causing pathogens in resource-scarce Southeast Asia using a global metagenomic pathogen monitoring system.**  
   Bohl JA, Lay S, Chea S, Ahyong V, Parker DM, Gallagher S, et al. *Proceedings of the National Academy of Sciences*. 2022;119(11):e2115285119.  
   https://doi.org/10.1073/pnas.2115285119
+<p align="center">
+  <img src="./media/CambodiaLULCMetagen.jpg"
+       alt="Land-cover patterns and vector-borne and non-vector-borne infections around Chbar Mon Hospital, Cambodia"
+       width="850">
+</p>
 
+<sub>
+<b>Figure.</b> Land-cover patterns surrounding Chbar Mon Hospital and the geographic distribution of vector-borne and non-vector-borne infections identified through metagenomic pathogen surveillance in Cambodia. From Bohl et al. (2022), <i>Proceedings of the National Academy of Sciences</i>.
+</sub>
 
 ### Observing human systems
 At the same time, my use of Earth observation broadened beyond environmental sensing. Population movement, displacement, conflict, and settlement patterns also leave measurable traces. Mobile-phone records and other spatial data made it possible to reconstruct aspects of human systems that are no easier to observe continuously than temperature, vegetation, or rainfall.
