@@ -44,9 +44,8 @@ Early applications were largely about geography itself: elevation, distance, tra
 
 
 ### Landscapes and infectious disease
-These collaborations expanded the role of Earth observation in my work from measuring terrain and access to asking how environmental conditions help structure the geography of infectious disease. Elevation, land cover, climate, and other remotely observed features became ways of reconstructing ecological conditions that were difficult to measure directly across large areas.
 
-Work in Laos pushed me from using spatial data primarily to understand access and terrain toward using Earth observation to characterize the environments in which infectious diseases occur. MODIS time-series data allowed us to measure changing vegetation and surface-water/moisture conditions around patients' home villages and ask whether different infections occurred in different environmental settings.
+Work in Laos pushed me from using spatial data primarily to understand access and terrain toward using Earth observation to ask how environmental conditions structure the geography of infectious disease. MODIS time-series data allowed us to measure changing vegetation and surface-water/moisture conditions around patients' home villages and ask whether different infections occurred in different environmental settings.
 
 <table>
   <tr>
@@ -68,6 +67,7 @@ Work in Laos pushed me from using spatial data primarily to understand access an
 </table>
 
 These images show the same landscape around Vientiane at different times of year (dry season on the left, wet season on the right). But what does a remotely sensed measure of "surface water" actually represent at 250 m resolution, and how can such measurements be connected to individual cases of human disease?
+
 **[Read the Laos Earth observation case study →](laos-eo.md)**
 
 - **Spatial epidemiology of Japanese encephalitis virus and other infections of the central nervous system in Lao PDR (2003–2011): A retrospective analysis.**  
