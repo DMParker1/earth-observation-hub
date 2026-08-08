@@ -38,7 +38,13 @@ Initial work used SRTM elevation data to better understand distances, friction-o
 
 ---
 
-## Selected Publications
+## From access and terrain to environmental exposure
+
+Early applications were largely about geography itself: elevation, distance, travel time, and the physical landscapes through which people reached health services. Work with METF and subsequent collaborations in Laos pushed that further, toward questions about how environmental conditions shape the distribution of infectious diseases.
+
+
+### Landscapes and infectious disease
+These collaborations expanded the role of Earth observation in my work from measuring terrain and access to asking how environmental conditions help structure the geography of infectious disease. Elevation, land cover, climate, and other remotely observed features became ways of reconstructing ecological conditions that were difficult to measure directly across large areas.
 
 - **Spatial epidemiology of Japanese encephalitis virus and other infections of the central nervous system in Lao PDR (2003–2011): A retrospective analysis.**  
   Rattanavong S, Dubot-Pérès A, Mayxay M, Vongsouvath M, Lee SJ, Cappelle J, et al. *PLOS Neglected Tropical Diseases*. 2020;14(5):e0008333.  
@@ -48,17 +54,13 @@ Initial work used SRTM elevation data to better understand distances, friction-o
   Roberts T, Parker DM, Bulterys PL, Rattanavong S, Elliott I, Phommasone K, et al. *PLOS Neglected Tropical Diseases*. 2021;15(8):e0009685.  
   https://doi.org/10.1371/journal.pntd.0009685
 
-- **Discovering disease-causing pathogens in resource-scarce Southeast Asia using a global metagenomic pathogen monitoring system.**  
-  Bohl JA, Lay S, Chea S, Ahyong V, Parker DM, Gallagher S, et al. *Proceedings of the National Academy of Sciences*. 2022;119(11):e2115285119.  
-  https://doi.org/10.1073/pnas.2115285119
-
 - **Geographical distribution of *Burkholderia pseudomallei* in soil in Myanmar.**  
   Swe MMM, Win MM, Cohen J, Phyo AP, Lin HN, Soe K, et al. *PLOS Neglected Tropical Diseases*. 2021;15(5):e0009372.  
   https://doi.org/10.1371/journal.pntd.0009372
 
-- **Mobile phone handover data for measuring and analysing human population mobility in Western Ethiopia: implication for malaria disease epidemiology and elimination efforts.** 
-  Haileselassie W, Getnet A, Solomon H, Deressa W, Yan G, Parker DM. *Malaria Journal*. 2022;21:323.  
-  https://doi.org/10.1186/s12936-022-04337-w
+
+### From landscapes to exposure
+The next step was to move from asking where disease occurs to asking what environmental conditions people and vectors actually experience. This increasingly brought Earth observation into studies of exposure, linking environmental measurements with entomological, epidemiological, and pathogen data.
 
 - **Determinants of exposure to *Aedes* mosquitoes: A comprehensive geospatial analysis in peri-urban Cambodia.**  
   Parker DM, Medina C, Bohl JA, Lon C, Chea S, Lay S, et al. *Acta Tropica*. 2023;239:106829.  
@@ -67,6 +69,18 @@ Initial work used SRTM elevation data to better understand distances, friction-o
 - **Spatio-temporal trends of malaria incidence from 2011 to 2017 and environmental predictors of malaria transmission in Myanmar.**  
   Zhao Y, Aung PL, Ruan S, Win KM, Wu Z, Soe TN, et al. *Infectious Diseases of Poverty*. 2023;12:2.  
   https://doi.org/10.1186/s40249-023-01055-6
+  
+- **Discovering disease-causing pathogens in resource-scarce Southeast Asia using a global metagenomic pathogen monitoring system.**  
+  Bohl JA, Lay S, Chea S, Ahyong V, Parker DM, Gallagher S, et al. *Proceedings of the National Academy of Sciences*. 2022;119(11):e2115285119.  
+  https://doi.org/10.1073/pnas.2115285119
+
+
+### Observing human systems
+At the same time, my use of Earth observation broadened beyond environmental sensing. Population movement, displacement, conflict, and settlement patterns also leave measurable traces. Mobile-phone records and other spatial data made it possible to reconstruct aspects of human systems that are no easier to observe continuously than temperature, vegetation, or rainfall.
+
+- **Mobile phone handover data for measuring and analysing human population mobility in Western Ethiopia: implication for malaria disease epidemiology and elimination efforts.** 
+  Haileselassie W, Getnet A, Solomon H, Deressa W, Yan G, Parker DM. *Malaria Journal*. 2022;21:323.  
+  https://doi.org/10.1186/s12936-022-04337-w
 
 - **Association between air raids and reported incidence of cholera in Yemen, 2016–19: An ecological modelling study.**  
   Tarnas MC, Al-Dheeb N, Zaman MH, Parker DM. *The Lancet Global Health*. 2023;11(12):e1955–e1963.  
@@ -97,7 +111,7 @@ Initial work used SRTM elevation data to better understand distances, friction-o
 
 ---
 
-## Data Sources Commonly Used
+## Some of the observation systems used in this work
 
 - [MODIS](https://modis.gsfc.nasa.gov/data/) (NDVI, EVI, surface water indices)  
 - [SRTM](https://www.earthdata.nasa.gov/data/instruments/srtm) elevation data  
@@ -115,7 +129,6 @@ Initial work used SRTM elevation data to better understand distances, friction-o
 These repositories connect different parts of my spatial epidemiology research:
 
 - [research-trajectory-hub](https://github.com/DMParker1/research-trajectory-hub) — Umbrella repository tying together my career arc.  
-- [earth-observation-hub](https://github.com/DMParker1/earth-observation-hub) — How Earth Observation methods became central to my work, with curated papers and case studies.  
 - [activity-spaces](https://github.com/DMParker1/activity-spaces) — Research on multi-place exposure (farm huts, GPS, mobile phone data) and its health relevance.  
 - [METF-mapping](https://github.com/DMParker1/METF-mapping) — Mapping malaria post placement & community engagement.  
 - [tMDA-program](https://github.com/DMParker1/tmda-program) — Targeted mass drug administration trials & modeling.  
