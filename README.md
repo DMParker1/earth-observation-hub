@@ -1,6 +1,22 @@
 # Earth Observation Hub
 
-This repository brings together my work applying Earth observation data and methods to public health research. It acts as a storytelling hub—showing the evolution of my research program from early spatial analyses to large-scale, multi-disease, and multi-country projects.
+**How do we measure things we cannot directly observe?**
+
+That question has followed me through much of my research.
+
+In some ways, this is an ordinary problem in epidemiology. We rarely observe the biological or social processes we care about directly. Even something as seemingly straightforward as determining whether someone has malaria requires a chain of measurement and inference. We might examine a blood smear under a microscope, use a rapid diagnostic test that produces a visible line in response to parasite antigens, or use molecular methods that generate signals from parasite DNA. In each case, we observe something measurable and use it as evidence for something we cannot simply see happening inside a person.
+
+Much of spatial epidemiology works the same way, only at a different scale.
+
+How do people access healthcare? How do they move through landscapes? What environmental conditions do they actually experience? Where are they exposed to pathogens and disease vectors?
+
+These processes are difficult, intermittent, or impossible to observe directly. Much of my research has therefore involved trying to reconstruct them from other kinds of information.
+
+Earth observation is, in one sense, simply taking that logic **sky high**.
+
+I use the term broadly here to include observations of environmental and human systems: satellite imagery, elevation and land-cover data, climate reanalysis, weather stations and field sensors, GPS, mobile-network data, drones, and related forms of measurement. These sources differ enormously in what they observe and how they are collected, but they share a practical purpose in my work: **they allow us to infer conditions, movements, and exposures that we cannot continuously observe on the ground.**
+
+This repository traces how those approaches entered my research, what questions they helped me answer, and where their limitations led to new questions.
 
 > **Definition:** *Earth Observation (EO)* refers to observational data about processes and conditions at or near Earth’s surface. EO spans (a) **environmental sensing** — in-situ gauges and stations (i.e. weather stations), plus **remote sensing** from satellites, aircraft, and drones — and (b) **human-systems sensing** — data on population location or movement such as GPS logger records, mobile-network CDR/handover data, and various forms of telemetry. I treat **Remote Sensing** as a **subset** of EO.
 
