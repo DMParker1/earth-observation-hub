@@ -67,9 +67,9 @@ Work in Laos pushed me from using spatial data primarily to understand access an
   </tr>
 </table>
 
-These images show the same landscape around Vientiane at different times of year. But what does a remotely sensed measure of "surface water" actually represent at 250 m resolution, and how can such measurements be connected to individual cases of human disease?
-
+These images show the same landscape around Vientiane at different times of year (dry season on the left, wet season on the right). But what does a remotely sensed measure of "surface water" actually represent at 250 m resolution, and how can such measurements be connected to individual cases of human disease?
 **[Read the Laos Earth observation case study →](laos-eo.md)**
+
 - **Spatial epidemiology of Japanese encephalitis virus and other infections of the central nervous system in Lao PDR (2003–2011): A retrospective analysis.**  
   Rattanavong S, Dubot-Pérès A, Mayxay M, Vongsouvath M, Lee SJ, Cappelle J, et al. *PLOS Neglected Tropical Diseases*. 2020;14(5):e0008333.  
   https://doi.org/10.1371/journal.pntd.0008333
