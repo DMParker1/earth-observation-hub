@@ -41,7 +41,7 @@ For epidemiology, however, that measurement can be extremely useful. Satellite o
 
 ## What does the satellite see on the ground?
 
-Remote sensing compresses a complicated landscape into pixels and derived measurements. At the 250 m resolution of the MODIS data we were using, a single pixel could contain flooded rice fields, dense vegetation, exposed soil, field boundaries, roads, and other surfaces.
+Remote sensing compresses a complicated landscape into pixels and derived measurements. At the 250 m resolution of the MODIS data we were using, a single pixel could contain flooded rice fields, dense vegetation, exposed soil, field boundaries, roads, houses, and other surfaces.
 
 <p align="center">
   <img src="./media/Rice_field_507.JPG"
@@ -50,9 +50,43 @@ Remote sensing compresses a complicated landscape into pixels and derived measur
 </p>
 
 <sub>
-<b>Field photograph.</b> Rice-growing landscape near Vientiane, Laos. Standing water is clearly visible in some fields, while adjacent fields contain dense rice vegetation. At MODIS resolution, these heterogeneous conditions contribute to the remotely sensed signal within the same or neighboring pixels.
+<b>Field photograph.</b> Rice-growing landscape near Vientiane, Laos. Standing water is clearly visible in some fields, while adjacent fields contain dense rice vegetation. At MODIS resolution, environmental conditions like these are integrated into measurements representing relatively large areas.
 </sub>
 
-This was not just an abstract concern. As part of this work, we did ground truthing to better understand how conditions observed in the field corresponded to the remotely sensed measures. Large areas of flooded rice agriculture were relatively easy to identify in the MODIS-derived surface-water signal, while smaller isolated flooded fields were less distinct.
+This was not merely an abstract concern. As part of this work, we did ground truthing to better understand how conditions observed in the field corresponded to the remotely sensed measures. Large areas of flooded rice agriculture were relatively easy to identify in the MODIS-derived surface-water signal, while smaller isolated flooded fields were less distinct.
 
-That experience was also a useful reminder that the derived measure should not be interpreted as a literal map of standing water. It was sensitive to relative surface water and moisture conditions across the area represented by a pixel. Understanding what a remotely sensed variable means therefore requires moving in both directions: **from the ground to the satellite, and from the satellite back to the ground.**
+The photograph above illustrates part of the problem. Open water and densely vegetated rice fields occur immediately beside one another, while water can also occur beneath or between vegetation. What looks relatively straightforward while standing in a rice field becomes a mixed spectral signal when observed from space.
+
+The derived measure should therefore not be interpreted as a literal map of standing water. It is better understood as a relative measure of surface-water and moisture conditions at the spatial scale of the satellite data.
+
+Understanding a remotely sensed variable requires moving in both directions: **from the satellite to the ground, and from the ground back to the satellite.**
+
+## From environmental measurement to epidemiology
+
+The goal, however, was not simply to map wet and dry landscapes.
+
+For the Laos studies, patients were linked to their home villages and to the timing of their hospital visits. We could therefore extract remotely sensed environmental conditions around those locations and ask whether people with different infections tended to come from different kinds of landscapes.
+
+This added a temporal dimension as well as a spatial one. Rather than asking only whether a village was generally wet or vegetated, we could ask what environmental conditions looked like around that village during the period immediately preceding a patient's illness.
+
+That distinction matters for infectious-disease ecology. Landscapes are not static. Vegetation changes, agricultural fields flood and dry, rainfall varies, and the ecological conditions supporting vectors and pathogens change through time.
+
+In the Laos work, these remotely sensed measurements helped identify differences in the environmental settings associated with infections including Japanese encephalitis, scrub typhus, and murine typhus.
+
+- Rattanavong S, Dubot-Pérès A, Mayxay M, Vongsouvath M, Lee SJ, Cappelle J, *et al.* (2020). [**Spatial epidemiology of Japanese encephalitis virus and other infections of the central nervous system in Lao PDR (2003–2011): A retrospective analysis.**](https://doi.org/10.1371/journal.pntd.0008333) *PLOS Neglected Tropical Diseases* 14(5):e0008333.
+
+- Roberts T, Parker DM, Bulterys PL, Rattanavong S, Elliott I, Phommasone K, *et al.* (2021). [**A spatio-temporal analysis of scrub typhus and murine typhus in Laos; implications from changing landscapes and climate.**](https://doi.org/10.1371/journal.pntd.0009685) *PLOS Neglected Tropical Diseases* 15(8):e0009685.
+
+## A lesson that carried forward
+
+This work helped shape how I think about Earth observation more generally.
+
+Satellite products make it possible to measure environmental conditions consistently over enormous areas and long periods of time. That is their great strength. But the apparent precision of a raster should not obscure what the measurement actually represents.
+
+A pixel has a spatial scale. An index has a physical and mathematical meaning. Landscapes are heterogeneous. And the environmental conditions relevant to a mosquito, pathogen, or person may occur at scales much finer than the observation system being used.
+
+For me, ground truthing is therefore not separate from Earth observation. It is part of understanding the observation itself.
+
+---
+
+[← Back to the Earth Observation Hub](README.md)
