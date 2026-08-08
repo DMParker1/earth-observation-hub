@@ -95,6 +95,10 @@ The next step was to move from asking where disease occurs to asking what enviro
 ### Observing human systems
 At the same time, my use of Earth observation broadened beyond environmental sensing. Population movement, displacement, conflict, and settlement patterns also leave measurable traces. Mobile-phone records and other spatial data made it possible to reconstruct aspects of human systems that are no easier to observe continuously than temperature, vegetation, or rainfall.
 
+- **Nighttime lights as a proxy for conflict intensity and infrastructure recovery in Yemen and Ukraine.**  
+  Tarnas MC, Vasylyeva TI, Minin VM, Parker DM. *Conflict and Health*. 2026;20:59.  
+  https://doi.org/10.1186/s13031-026-00801-5
+  
 - **Mobile phone handover data for measuring and analysing human population mobility in Western Ethiopia: implication for malaria disease epidemiology and elimination efforts.** 
   Haileselassie W, Getnet A, Solomon H, Deressa W, Yan G, Parker DM. *Malaria Journal*. 2022;21:323.  
   https://doi.org/10.1186/s12936-022-04337-w
