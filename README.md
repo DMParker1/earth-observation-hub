@@ -97,7 +97,17 @@ At the same time, my use of Earth observation broadened beyond environmental sen
 
 - **Nighttime lights as a proxy for conflict intensity and infrastructure recovery in Yemen and Ukraine.**  
   Tarnas MC, Vasylyeva TI, Minin VM, Parker DM. *Conflict and Health*. 2026;20:59.  
-  https://doi.org/10.1186/s13031-026-00801-5
+  [https://doi.org/10.1186/s13031-026-00801-5](https://doi.org/10.1186/s13031-026-00801-5)
+
+<p align="center">
+  <img src="./media/NTL.png"
+       alt="Nighttime light changes before and after the onset of large-scale conflict in Yemen and Ukraine"
+       width="900">
+</p>
+
+<sub>
+<b>Figure.</b> Changes in nighttime lights associated with the onset of large-scale conflict in Yemen and Ukraine. Time series show changes in mean nighttime-light radiance, while the maps compare post-onset with pre-onset nighttime lights. Values below 1 indicate areas that became darker, while values above 1 indicate areas that became brighter. Adapted from analyses in Tarnas et al. (2026), <i>Conflict and Health</i>.
+</sub>
   
 - **Mobile phone handover data for measuring and analysing human population mobility in Western Ethiopia: implication for malaria disease epidemiology and elimination efforts.** 
   Haileselassie W, Getnet A, Solomon H, Deressa W, Yan G, Parker DM. *Malaria Journal*. 2022;21:323.  
