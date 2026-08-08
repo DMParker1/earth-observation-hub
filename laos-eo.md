@@ -53,6 +53,7 @@ Remote sensing compresses a complicated landscape into pixels and derived measur
 <b>Field photograph.</b> Rice-growing landscape near Vientiane, Laos. Standing water is clearly visible in some fields, while adjacent fields contain dense rice vegetation. At MODIS resolution, environmental conditions like these are integrated into measurements representing relatively large areas.
 </sub>
 
+
 This was not merely an abstract concern. As part of this work, we did ground truthing to better understand how conditions observed in the field corresponded to the remotely sensed measures. Large areas of flooded rice agriculture were relatively easy to identify in the MODIS-derived surface-water signal, while smaller isolated flooded fields were less distinct.
 
 The photograph above illustrates part of the problem. Open water and densely vegetated rice fields occur immediately beside one another, while water can also occur beneath or between vegetation. What looks relatively straightforward while standing in a rice field becomes a mixed spectral signal when observed from space.
