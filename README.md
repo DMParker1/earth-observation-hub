@@ -51,14 +51,14 @@ Work in Laos pushed me from using spatial data primarily to understand access an
   <tr>
     <td width="50%" valign="top">
       <img src="./media/VientianeSWFeb.jpg"
-           alt="Surface-water and moisture conditions around Vientiane in February"
+           alt="MODIS-derived surface-water and moisture conditions around Vientiane in February during the dry season. Higher values are concentrated along the Mekong River and scattered low-lying areas, while most of the surrounding landscape shows relatively low moisture."
            width="100%">
       <br>
       <sub><b>February</b></sub>
     </td>
     <td width="50%" valign="top">
       <img src="./media/VientianeSWJuly.jpg"
-           alt="Surface-water and moisture conditions around Vientiane in July"
+           alt="MODIS-derived surface-water and moisture conditions around Vientiane in July during the rainy season. Higher moisture values extend broadly across the surrounding landscape, with the Mekong River and other waterways clearly visible."
            width="100%">
       <br>
       <sub><b>July</b></sub>
@@ -91,7 +91,7 @@ The next step was to move from asking where disease occurs to asking what enviro
   https://doi.org/10.1016/j.actatropica.2023.106829
 <p align="center">
   <img src="./media/AedesExposurePredictions.jpg"
-       alt="Predicted spatial patterns of Aedes mosquito exposure across four study visits in peri-urban Cambodia"
+       alt="Twelve maps showing predicted Aedes mosquito exposure across four study visits in peri-urban Cambodia. Columns show visits 1 through 4, while rows show the lower 95% credible bound, mean prediction, and upper 95% credible bound. Predicted exposure is spatially heterogeneous and while there are changes across study visits, hotspots remain persistent."
        width="850">
 </p>
 
@@ -108,7 +108,7 @@ The next step was to move from asking where disease occurs to asking what enviro
   https://doi.org/10.1073/pnas.2115285119
 <p align="center">
   <img src="./media/CambodiaLULCMetagen.jpg"
-       alt="Land-cover patterns and vector-borne and non-vector-borne infections around Chbar Mon Hospital, Cambodia"
+       alt="Two maps of the area around Chbar Mon Hospital, Cambodia. The left map classifies land cover as surface water, urban area, forest, cropland, and mudflats. The right map shows the locations of vector-borne and non-vector-borne infections over the landscape, with most non-vector-borne cases in urban settings concentrated near the hospital and vector-borne cases extending into surrounding areas."
        width="850">
 </p>
 
@@ -125,7 +125,7 @@ At the same time, my use of Earth observation broadened beyond environmental sen
 
 <p align="center">
   <img src="./media/NTL.png"
-       alt="Nighttime light changes before and after the onset of large-scale conflict in Yemen and Ukraine"
+      alt="Nighttime-light time series and maps for Yemen and Ukraine showing changes associated with the onset of large-scale conflict. Yemen shows a sharp decline in mean nighttime-light radiance around 2015, while Ukraine shows a pronounced decline around 2022. Post-onset versus pre-onset maps show widespread darkening with localized areas of increased brightness."
        width="900">
 </p>
 
