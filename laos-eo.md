@@ -10,7 +10,7 @@ The first image below is a conventional RGB view of the landscape around Vientia
 
 <p align="center">
   <img src="./media/VientianeRGB.jpg"
-       alt="RGB satellite view of Vientiane and the surrounding Mekong River landscape"
+       alt="True-color satellite image of Vientiane and the surrounding landscape. The urban area lies along the Mekong River, which forms several large bends through the center and southeastern part of the image."
        width="800">
 </p>
 
@@ -20,14 +20,14 @@ The next two images show a remotely sensed measure sensitive to surface water an
   <tr>
     <td width="50%" valign="top">
       <img src="./media/VientianeSWFeb.jpg"
-           alt="Remotely sensed surface water and moisture conditions around Vientiane in February"
+           alt="MODIS-derived surface-water and moisture conditions around Vientiane in February during the dry season. Higher values are concentrated along the Mekong River and scattered low-lying areas, while most of the surrounding landscape shows relatively low moisture."
            width="100%">
       <br>
       <sub><b>February.</b> During the dry season, the Mekong River remains clearly identifiable while much of the surrounding landscape has a relatively low surface-water/moisture signal.</sub>
     </td>
     <td width="50%" valign="top">
       <img src="./media/VientianeSWJuly.jpg"
-           alt="Remotely sensed surface water and moisture conditions around Vientiane in July"
+           alt="MODIS-derived surface-water and moisture conditions around Vientiane in July during the rainy season. Higher moisture values extend broadly across the surrounding landscape, with the Mekong River and other waterways clearly visible."
            width="100%">
       <br>
       <sub><b>July.</b> During the rainy season, the surface-water/moisture signal extends much more broadly across the surrounding landscape.</sub>
@@ -53,7 +53,6 @@ Remote sensing compresses a complicated landscape into pixels and derived measur
   </sub>
 </p>
 
-
 This was not merely an abstract concern. As part of this work, we did ground truthing to better understand how conditions observed in the field corresponded to the remotely sensed measures. Large areas of flooded rice agriculture were relatively easy to identify in the MODIS-derived surface-water signal, while smaller isolated flooded fields were less distinct.
 
 The photograph above illustrates part of the problem. Open water and densely vegetated rice fields occur immediately beside one another, while water can also occur beneath or between vegetation. What looks relatively straightforward while standing in a rice field becomes a mixed spectral signal when observed from space.
@@ -75,7 +74,6 @@ That distinction matters for infectious-disease ecology. Landscapes are not stat
 In the Laos work, these remotely sensed measurements helped identify differences in the environmental settings associated with infections including Japanese encephalitis, scrub typhus, and murine typhus.
 
 - Rattanavong S, Dubot-Pérès A, Mayxay M, Vongsouvath M, Lee SJ, Cappelle J, *et al.* (2020). [**Spatial epidemiology of Japanese encephalitis virus and other infections of the central nervous system in Lao PDR (2003–2011): A retrospective analysis.**](https://doi.org/10.1371/journal.pntd.0008333) *PLOS Neglected Tropical Diseases* 14(5):e0008333.
-
 - Roberts T, Parker DM, Bulterys PL, Rattanavong S, Elliott I, Phommasone K, *et al.* (2021). [**A spatio-temporal analysis of scrub typhus and murine typhus in Laos; implications from changing landscapes and climate.**](https://doi.org/10.1371/journal.pntd.0009685) *PLOS Neglected Tropical Diseases* 15(8):e0009685.
 
 ## A lesson that carried forward
