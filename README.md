@@ -183,7 +183,7 @@ At the same time, my use of Earth observation broadened beyond environmental sen
 
 These repositories connect different parts of my spatial epidemiology research:
 
-- [research-trajectory-hub](https://github.com/DMParker1/research-trajectory-hub) — Umbrella repository tying together my career arc.  
+- [research-atlas](https://github.com/DMParker1/research-atlas) — Research atlas connecting projects across questions, places, and approaches.
 - [activity-spaces](https://github.com/DMParker1/activity-spaces) — Research on multi-place exposure (farm huts, GPS, mobile phone data) and its health relevance.  
 - [METF-mapping](https://github.com/DMParker1/METF-mapping) — Mapping malaria post placement & community engagement.  
 - [tMDA-program](https://github.com/DMParker1/tmda-program) — Targeted mass drug administration trials & modeling.  
